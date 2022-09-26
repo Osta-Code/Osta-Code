@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ali-OsTayoo
 - 👀 I’m interested in Web developing
-- 👀 with abundant of expertise of web developing like HTML, CSS, bootstrap, JavaScript and React js.
+- 👀 with excellent web development expertise like HTML, CSS, Bootstrap, JavaScript and React js.
 - 🌱 I’m currently learning React and Node Js
 - 💞️ I’m looking to collaborate on any projects that can I help you.
 - 📫 How to reach me by sending Email: Ali.ostayoo2@gmail.com
